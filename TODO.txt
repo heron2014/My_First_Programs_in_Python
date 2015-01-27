@@ -1,0 +1,4 @@
+Party Calculator
+
+1. Refactor functions so we wont do calculations if user dont allow people to bring their partners
+2. Do calculations regards beers, snacks, maybe shots 
